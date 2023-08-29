@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Preahvihear&family=Work+Sans&display=swap');
+
+
+#kalvium{
+ position: absolute;
+ top: 20px;
+ left: 175px;
+ width:250px;
+ 
+}
+ 
+#redpfp{
+  position: absolute;
+  top: 31px;
+  padding-left: 1000px; 
+  height: 45px;
+  width: 45px;
+
+}
+
+
+#student{
+
+  position: absolute;
+  top: 38px;
+  padding-left: 1050px;
+  font-size: x-large;
+  color: rgb(255, 52, 52);
+}  
+#courses{
+   
+  position: absolute;
+  top: 38px;
+  padding-left: 1200px;
+  font-size: x-large;
+  color: rgb(255, 52, 52);
+
+}
+
+
+body{
+    
+    font-family: 'Work Sans', sans-serif;
+    padding: 60px;
+    width: 800px;
+    background-color: rgb(255, 224, 221);
+   
+}
+th,td
+{
+  padding:15px;
+  
+} 
+#caption
+{
+  font-size: 1.6em;
+  margin-bottom: 10px;
+}
+
+
+table
+{
+  padding-top: 30%; 
+  border-collapse: collapse;
+  width:140%;
+  height: 500px;
+  background-color: white;
+  border:1px solid rgb(255, 255, 255);
+  margin-left:18%;
+  margin-right:auto;
+  margin-top: 13%;
+  margin-bottom: auto;
+  box-shadow: 2px 2px 4px 4px rgb(255, 194, 194);
+  text-align: center;
+
+
+}
+#lunch{
+  font-size: 1.5em;
+
+}
+
+
+th{
+  background-color: rgb(194, 37, 37);
+  color:white;
+
+}
+
+tr:nth-child(even){
+  background-color: white;
+}
+
+tr:nth-child(odd){
+  background-color:rgb(230, 230, 230)
+}
